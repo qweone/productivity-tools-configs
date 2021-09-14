@@ -1,5 +1,3 @@
-# win-tools
-
 记录一下自己windows工作笔记本的工具，尽量精简, 快速满足我的习惯。
 
 # Windows Tools
