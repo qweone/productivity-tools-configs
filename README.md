@@ -1,13 +1,10 @@
-记录一下自己windows工作笔记本的工具，尽量精简, 快速满足我的习惯。
+Config files of the powerful tools which I used the most.
 
 # Windows Tools
-* 剪贴板工具 CopyQ
-* 密码工具 keepass
+* CopyQ
 * AutoHotKey
-* 截图 FSCapture
-* 文本编辑 sublime, notepad++, vscode
-* markdown编辑 typora
-* 查找工具 Everything
+* vscode
+* Everything
 * **windows subsystem for linux(WSL)**
 
 # Linux Tools
@@ -18,7 +15,7 @@
   `plugins=(git zsh-autosuggestions kubectl)`
 * tmux
 * nvim
-* Taskwarrior(命令行任务管理)
+* Taskwarrior(TODO list from the command line.)
 
 
 
